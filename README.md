@@ -15,7 +15,9 @@ Corso di Grafica in Movimento 2025 SUPSI
 
 
 
+
 # Esercizio 1C
 - [Esercizio 1C: commento testo](https://allegradr.github.io/gim/esercizio_1/esercizio_1C/)
 
 # Esercizio 2
+- [Esercizio 2: Paralasse](
