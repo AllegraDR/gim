@@ -12,9 +12,7 @@ Corso di Grafica in Movimento 2025 SUPSI
 - [Esercizio 1A: spostamento 3](https://allegradr.github.io/gim/esercizio_1/esercizio_1A/spostamento_3.html)
 
 # Esercizio 1B
-
-
-
+- [Esercizio 1B: logo google](https://allegradr.github.io/gim/esercizio_1/esercizio_1B/index.html)
 
 # Esercizio 1C
 - [Esercizio 1C: commento testo](https://allegradr.github.io/gim/esercizio_1/esercizio_1C/)
