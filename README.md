@@ -19,3 +19,17 @@ Corso di Grafica in Movimento 2025 SUPSI
 
 # Esercizio 2
 - [Esercizio 2: Paralasse](
+
+# Esercizio 3A
+- [Esercizio 3A:
+- [Esercizio 3A: 
+- [Esercizio 3A: pong]
+
+# Esercizio 3B 
+
+
+
+
+
+
+
