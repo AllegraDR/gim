@@ -21,8 +21,8 @@ Corso di Grafica in Movimento 2025 SUPSI
 - [Esercizio 2: Paralasse](https://allegradr.github.io/gim/esercizio_2/index.html)
 
 # Esercizio 3A
-- [Esercizio 3A:
-- [Esercizio 3A: 
+- [Esercizio 3A:]
+- [Esercizio 3A:]
 - [Esercizio 3A: pong]
 
 # Esercizio 3B 
