@@ -21,12 +21,12 @@ Corso di Grafica in Movimento 2025 SUPSI
 - [Esercizio 2: Paralasse](https://allegradr.github.io/gim/esercizio_2/index.html)
 
 # Esercizio 3A
-- [Esercizio 3A: pioggia](https://allegradr.github.io/gim/)
-- [Esercizio 3A: neve](https://allegradr.github.io/gim/)
-- [Esercizio 3A: pong](https://allegradr.github.io/gim/)
+- [Esercizio 3A: pioggia](https://allegradr.github.io/gim/esercizio_3A/esercizio_3A_neve/index.html)
+- [Esercizio 3A: neve](https://allegradr.github.io/gim/esercizio_3A/esercizio_3A_pioggia/index.html)
+- [Esercizio 3A: pong](https://allegradr.github.io/gim/esercizio_3A/esercizio_3A_pong/index.html)
 
 # Esercizio 3B 
-- [Esercizio 3B: Che ora è?](https://allegradr.github.io/gim/
+- [Esercizio 3B: Che ora è?](https://allegradr.github.io/gim/esercizio_3B/index.html)
 
 
 
